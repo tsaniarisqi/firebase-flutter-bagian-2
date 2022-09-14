@@ -14,3 +14,22 @@ A new Flutter project.
 
 - Mengaktifkan cloud firestore
 ![Screenshoot firebase](images/04.png)
+
+## Konfigurasi Firebase
+- Konfigurasi dependensi
+```
+flutter pub add firebase_core 
+flutter pub add firebase_auth
+flutter pub add cloud_firestore
+flutter pub add provider
+```
+
+- Memasang flutterfire
+```
+dart pub global activate flutterfire_cli
+```
+
+- Mengonfigurasi aplikasi Anda
+```
+flutterfire configure
+```
