@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class Header extends StatelessWidget {
   final String heading;
 
-  const Header(String s, {Key? key, required this.heading}) : super(key: key);
+  const Header({Key? key, required this.heading}) : super(key: key);
 
   @override
   Widget build(BuildContext context) => Padding(
@@ -18,7 +18,7 @@ class Header extends StatelessWidget {
 class Paragraph extends StatelessWidget {
   final String content;
 
-  const Paragraph(String s, {Key? key, required this.content})
+  const Paragraph({Key? key, required this.content})
       : super(key: key);
   @override
   Widget build(BuildContext context) => Padding(

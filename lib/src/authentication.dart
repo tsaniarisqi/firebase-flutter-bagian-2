@@ -168,8 +168,7 @@ class _EmailFormState extends State<EmailForm> {
     return Column(
       children: [
         const Header(
-          'Sign in with email',
-          heading: '',
+          heading: 'Sign in with email',
         ),
         Padding(
           padding: const EdgeInsets.all(8.0),
@@ -252,8 +251,7 @@ class _RegisterFormState extends State<RegisterForm> {
     return Column(
       children: [
         const Header(
-          'Create account',
-          heading: '',
+          heading: 'Create account',
         ),
         Padding(
           padding: const EdgeInsets.all(8.0),
@@ -369,8 +367,7 @@ class _PasswordFormState extends State<PasswordForm> {
     return Column(
       children: [
         const Header(
-          'Sign in',
-          heading: '',
+          heading: 'Sign in',
         ),
         Padding(
           padding: const EdgeInsets.all(8.0),

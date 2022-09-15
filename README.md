@@ -33,3 +33,16 @@ dart pub global activate flutterfire_cli
 ```
 flutterfire configure
 ```
+
+## Tambahkan LoginPengguna (RSVP)
+![Screenshoot firebase](images/05.png)
+
+| Result | Description |
+| --- | --- |
+| <img src="images/05-1.png" width="600"> | Berikut merupakan halaman awal dari alur otentikasi. User dapat menekan tombol RSVP, untuk memulai formulir email. |
+| <img src="images/05-2.png" width="600"> | Setelah memasukkan email, sistem mengkonfirmasi jika pengguna sudah terdaftar, dalam hal ini pengguna dimintai kata sandi, atau jika pengguna tidak terdaftar, maka mereka pergi melalui formulir pendaftaran. |
+| <img src="images/05-3.png" width="600"> | Jika belum memiliki akun maka akan diminta untuk mengisi formulir create account. Masukkan email dan password|
+| <img src="images/05-4.png" width="600"> | Ketika password kurang dari enam karakter maka akan muncul pemberitahuan bahwa password yang dimasukkan harus terdiri dari enam karakter atau lebih.|
+| <img src="images/05-5.png" width="600"> | Masukkan email dan password sesuai dengan yang dibuat pada ceate account. |
+| <img src="images/05-6.png" width="600"> | Halaman yang akan tampil ketika berhasil login |
+| <img src="images/05-7.png" width="600"> | Ketika password yang dimasukkan salah maka akan muncul pemberitahuan bahwa password yang dimasukkan salah |
