@@ -49,20 +49,13 @@ flutterfire configure
 
 ## Tulis Pesan ke Cloud Firestor
 ![Screenshoot firebase](images/06.png)
-<<<<<<< HEAD
-
-=======
->>>>>>> 7b60bf7e64a05c33886835980f319dd0f0af7371
 - Untuk mengirim pesan pastikan sudah masuk ke akun 
 - <img src="images/06-1.png" width="300"> 
 - Coba untuk memasukkan pesan, disini saya mencoba memasukkan pesan "Hi!" 
 - <img src="images/06-2.png" width="300"> 
 - Pesan yang berhasil dikirimkan akan tersimpan pada cloyd firestore, seperti gambar berikut 
 - <img src="images/06-3.png" width="700"> 
-<<<<<<< HEAD
 
 ## Baca Pesan
 - Pesan yang berhasil disimpan akan ditampilkan pada aplikasi 
 ![Screenshoot firebase](images/07.png)
-=======
->>>>>>> 7b60bf7e64a05c33886835980f319dd0f0af7371
