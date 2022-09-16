@@ -18,8 +18,7 @@ class Header extends StatelessWidget {
 class Paragraph extends StatelessWidget {
   final String content;
 
-  const Paragraph({Key? key, required this.content})
-      : super(key: key);
+  const Paragraph({Key? key, required this.content}) : super(key: key);
   @override
   Widget build(BuildContext context) => Padding(
         padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
