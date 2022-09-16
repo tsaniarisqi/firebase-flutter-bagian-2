@@ -46,3 +46,12 @@ flutterfire configure
 | <img src="images/05-5.png" width="600"> | Masukkan email dan password sesuai dengan yang dibuat pada ceate account. |
 | <img src="images/05-6.png" width="600"> | Halaman yang akan tampil ketika berhasil login |
 | <img src="images/05-7.png" width="600"> | Ketika password yang dimasukkan salah maka akan muncul pemberitahuan bahwa password yang dimasukkan salah |
+
+## Tulis Pesan ke Cloud Firestor
+![Screenshoot firebase](images/06.png)
+
+| Result | Description |
+| --- | --- |
+| <img src="images/06-1.png" width="600"> | Untuk mengirim pesan pastikan sudah masuk ke akun |
+| <img src="images/06-2.png" width="600"> | Coba untuk memasukkan pesan, disini saya mencoba memasukkan pesan "Hi!" |
+| <img src="images/06-3.png" width="600"> | Pesan yang berhasil dikirimkan akan tersimpan pada cloyd firestore, seperti gambar berikut |
